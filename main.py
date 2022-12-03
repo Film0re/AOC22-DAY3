@@ -1,4 +1,3 @@
-# Daniel Dowdle
 # AOC 2022 Day 3
 # 12/3/2022
 
